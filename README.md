@@ -1,4 +1,4 @@
-# Chamber
+![chamber](https://github.com/user-attachments/assets/93529d85-815d-4f6f-b6d3-3ebc489164de)# Chamber
 
 A real-time chat application built with React and Firebase. Users can sign in with Google, join or create chat rooms, and exchange messages instantly. The app features a clean, responsive interface with authentication handling, room management, and live message updates.
 
@@ -17,10 +17,7 @@ A real-time chat application built with React and Firebase. Users can sign in wi
 
 ## 📸 Preview
 
-*(Add screenshots or GIFs of your app here for better presentation)*  
-<img width="512" height="400" alt="1" src="https://github.com/user-attachments/assets/40b0f86c-cced-4b9f-ad9d-f86813d003ed" />
----<img width="343" height="356" alt="2" src="https://github.com/user-attachments/assets/b0403c7d-fc6a-4561-86d8-60918bb41199" />
-<img width="589" height="454" alt="3" src="https://github.com/user-attachments/assets/4bca624d-e266-4fbb-ae31-58d880af0019" />
+![chamber](https://github.com/user-attachments/assets/50d43f34-dc9c-421e-8d7b-c0f105f0cebe)
 
 ## ⚙️ Usage
 
